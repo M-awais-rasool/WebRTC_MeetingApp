@@ -13,6 +13,10 @@ A simple React Native application for video meetings using WebRTC.
 ### Landing Screen
 <img width="403" alt="Image" src="https://github.com/user-attachments/assets/ce8a0804-8f45-4484-a1fd-1043a3026ca6" />
 
+### Meeting Screen
+<img width="403" alt="Image" src="https://github.com/user-attachments/assets/490ec0a4-ae2d-4a6e-809a-19bf9e85c5c1" />
+
+<img width="403" alt="Image" src="https://github.com/user-attachments/assets/a3e72131-92bb-429f-af1c-81bfb09679ce" />
 
 ## Setup
 
