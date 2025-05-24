@@ -8,6 +8,12 @@ A simple React Native application for video meetings using WebRTC.
 - Create or join meetings using room IDs
 - Simple interface for video conferencing
 
+## App Screens
+
+### Landing Screen
+<img width="403" alt="Image" src="https://github.com/user-attachments/assets/490ec0a4-ae2d-4a6e-809a-19bf9e85c5c1" />
+
+
 ## Setup
 
 1. Install dependencies:
